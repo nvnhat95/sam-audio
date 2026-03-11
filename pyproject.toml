@@ -23,11 +23,11 @@ dependencies = [
     "numpy",
     "perception-models@git+https://github.com/facebookresearch/perception_models@unpin-deps",
     "pydub",
-    "torch",
-    "torchaudio",
-    "torchcodec",
+    #"torch",
+    #"torchaudio",
+    #"torchcodec",
     "torchdiffeq",
-    "torchvision",
+    #"torchvision",
     "transformers>=4.54.0",
 ]
 
